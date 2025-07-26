@@ -1,0 +1,12 @@
+# Ignore large files
+*.h5
+Models/
+refit_data/
+data/
+data/REFIT_House*.h5
+
+# VS Code and Jupyter
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+
